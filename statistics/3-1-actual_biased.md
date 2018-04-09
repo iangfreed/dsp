@@ -62,8 +62,7 @@ main()
 ```
 Running this code yields the below graphed unbiased and biased PDFs.
 
-![Image of Biased and Unbiased PDFs](https://github.com/iangfreed/dsp/blob/mast\
-er/UnbiasedBiasedPDF.png)
+![Image of Biased and Unbiased PDFs](https://github.com/iangfreed/dsp/blob/master/UnbiasedBiasedPDF.png)
 
 The unbiased Mean is 1.024205155043831 children and
 the Biased Mean is 2.403679100664282 children
